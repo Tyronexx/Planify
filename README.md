@@ -1,16 +1,1 @@
-# planify
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Enhance your productivity with Planify, a sleek and intuitive app designed to streamline your task management. With a clean and modern interface, Planify lets you effortlessly organize your tasks, set priorities, and track your progress. Create, edit, and delete tasks with ease, get custom notifications and enjoy the satisfaction of checking them off as you complete them. 
